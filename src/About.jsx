@@ -38,18 +38,20 @@ function About() {
                 into extraordinary experiences.
               </p>
 
-              <button
-                className="
-                  bg-[#D2A84C]
-                  text-[#1A1A1A]
-                  px-7 py-4
-                  rounded-md
-                  hover:bg-[#C99A3D]
-                  transition
-                "
-              >
-                Our Approach →
-              </button>
+              <a
+  href="#approach"
+  className="
+    inline-block
+    bg-[#D2A84C]
+    text-[#1A1A1A]
+    px-7 py-4
+    rounded-md
+    hover:bg-[#C99A3D]
+    transition
+  "
+>
+  Our Approach →
+</a>
 
             </div>
 
@@ -91,7 +93,10 @@ function About() {
 
 
       {/* ================= OUR PHILOSOPHY ================= */}
-      <section className="bg-[#EFECE5] py-20">
+     <section
+  id="approach"
+  className="bg-[#EFECE5] py-20"
+>
 
         <div className="max-w-7xl mx-auto px-10">
 
