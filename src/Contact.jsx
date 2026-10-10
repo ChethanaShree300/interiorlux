@@ -45,7 +45,7 @@ function Contact() {
 
           {/* WhatsApp */}
           <a
-            href="https://wa.me/2345678945"
+            href="https://wa.me/917483091570"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white p-10 border border-[#E5E1D8] hover:border-[#C99A3D] transition"
